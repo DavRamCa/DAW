@@ -1,3 +1,3 @@
 # DAW
 1º DAW
-Modioficado desde MV Windows
+Modificado desde MV Windows
